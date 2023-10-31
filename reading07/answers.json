@@ -1,0 +1,49 @@
+{
+  "q01": [
+    "topological sort",
+    "directed",
+    "before",
+    "acyclic",
+    "Kahn"
+  ],
+  "q02": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six"
+  ],
+  "q03": [
+    "Eulerian",
+    "Hamiltonian",
+    "circuit",
+    "NP-hard"
+  ],
+  "q04": [
+    "even",
+    "odd_even"
+  ],
+  "q05": [
+    "complete",
+    "degree",
+    "sum"
+  ],
+  "q06": [
+    "epath",
+    "hpath",
+    "hcircuit"
+  ],
+  "q07": [
+    "maximum flow",
+    "source",
+    "sink",
+    "minimum cut",
+    "minimum-weight"
+  ],
+  "q08": [
+    "7",
+    "7",
+    "2"
+  ]
+}
